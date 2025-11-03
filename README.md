@@ -22,9 +22,13 @@ INSTRUCCIONES PARA ABRIR EL ARCHIVO CORRECTAMENTE
 
    C:/Users/marco/AppData/Local/Programs/Python/Python312/python.exe -m pip install pygame
 
+   Ejecutamos y esperamos a que se descargue 
+
    Volvemos a repetir lo mismo pero al final -m pip install Pillow, en mi caso seria:
 
    C:/Users/marco/AppData/Local/Programs/Python/Python312/python.exe -m pip install Pillow
+
+   
 
    De esta forma ya tendriamos descargados estos dos archivos que son necesarios para que el codigo pueda ejecutarse correctamente.
    
