@@ -43,22 +43,9 @@ Y de esta forma tendriamos el codigo con musica y mejor estetica  C:
 
 EN EL CASO DE QUE HAYA ALGUN INCONVENIENTE ABRIENDO EL ANTERIOR CODIGO 
 
-1. DESCARGAMOS EL ARCHIVO DEL GITHUB LLAMADO      CAFETERIA 2 OPCION.py
+1. Simplemente abrimos el archivo "main.py" en visual studio, este no tendra musica pero funcionara de igual forma que el anterior
 
-   <img width="1137" height="62" alt="image" src="https://github.com/user-attachments/assets/196f01af-396c-4609-81e0-ad4cd0dc150a" />
-
-   <img width="1738" height="833" alt="image" src="https://github.com/user-attachments/assets/9a3947d1-fccb-43e3-923b-f000e4d2bafe" />
-
-
-2. Abrimos el archivo en Visual Studio Code y le damos a ejecutar
-
-
-   <img width="1857" height="960" alt="image" src="https://github.com/user-attachments/assets/d7532b10-9364-4540-9020-35f60aba926c" />
-
-
-3. Ya tenemos nuestro codigo de respaldo pero sin la estetica ni la musica del primero
-
-   <img width="1177" height="748" alt="image" src="https://github.com/user-attachments/assets/eef788e8-2641-4a88-a28f-eef67516aabf" />
+<img width="1919" height="1023" alt="image" src="https://github.com/user-attachments/assets/15b9fce2-96cc-41d5-9464-8c3ce4306dbd" />
 
 
    MUCHAS GRACIAS POR TU ATENCION.
