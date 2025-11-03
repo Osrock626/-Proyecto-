@@ -20,11 +20,11 @@ INSTRUCCIONES PARA ABRIR EL ARCHIVO CORRECTAMENTE
 
    Abrimos powershell como administrador, tenemos que copiar el codigo amarillo que nos deja el output en visual studio y añadirle -m pip install pygame, en mi caso
 
-   C:/Users/Administrator/AppData/Local/Programs/Python/Python312/python.exe -m pip install pygame
+   C:/Users/marco/AppData/Local/Programs/Python/Python312/python.exe -m pip install pygame
 
    Volvemos a repetir lo mismo pero al final -m pip install Pillow, en mi caso seria:
 
-   C:/Users/Administrator/AppData/Local/Programs/Python/Python312/python.exe -m pip install Pillow
+   C:/Users/marco/AppData/Local/Programs/Python/Python312/python.exe -m pip install Pillow
 
    De esta forma ya tendriamos descargados estos dos archivos que son necesarios para que el codigo pueda ejecutarse correctamente.
    
