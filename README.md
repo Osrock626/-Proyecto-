@@ -12,7 +12,7 @@ INSTRUCCIONES PARA ABRIR EL ARCHIVO CORRECTAMENTE
 
 
 
-3. Abrimos el "main.py" desde visual studio code, con la version 3.12.9 de python, generalmente aparecera este error
+3. Abrimos el "main.py" desde visual studio code, con la version 3.12.9 de python (si no la tenenemos la descargamos desde la pagina oficial), generalmente aparecera este error
 
    ![Imagen de WhatsApp 2025-11-03 a las 11 49 12_77589ce0](https://github.com/user-attachments/assets/fe302409-e51e-4049-8e95-4f3298f28e90)
 
